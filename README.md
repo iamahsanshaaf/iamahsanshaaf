@@ -1,137 +1,142 @@
-# Muhammad Ahsan Shaaf 👋  
-### Senior Software Engineer | Mobile Architect (Android & iOS)
+# 👋 Hi, I'm Ahsan
 
-I am a **Senior Software Engineer** with **7+ years of professional experience** designing, building, and scaling **production-grade mobile applications** for **Android and iOS**.
+### Senior Software Engineer | Mobile (Android & iOS) | Clean Architecture Advocate
 
-My expertise lies in **modern mobile architecture**, **high-performance UI systems**, and **monetization-driven products**, with full ownership of the mobile lifecycle — from system design and implementation to **App Store** and **Google Play** deployment.
-
-I focus on building **maintainable, scalable, and resilient systems** that perform reliably at scale.
-
-- 🌍 Based in **Islamabad, Pakistan**
-- 🎓 **MS in Software Engineering** — UET Taxila
-- 🚀 Specialization: **Swift / SwiftUI** & **Kotlin / Jetpack Compose**
-- 🛠 Advocate of **Clean Architecture**, **SOLID principles**, and long-term product sustainability
+I’m a results-driven **Software Engineer** with strong expertise in building **scalable, high-performance mobile applications** using modern architectures and industry best practices.  
+I focus on **clean code, long-term maintainability, and production-ready solutions** rather than quick hacks.
 
 ---
 
-## 🧠 Engineering Expertise
+## 🧠 About Me
 
-### Programming Languages & Foundations
-- **Swift**
-- **Kotlin**
-- **Java**
-- **SQL**
-- Strong understanding of platform-native concurrency and memory management
-
----
-
-## 📱 Android Engineering (Modern & Scalable)
-
-I architect and deliver **robust Android applications** using **Jetpack Compose** and **modern architectural patterns**, with a strong emphasis on **clarity, testability, and scalability**.
-
-- **Architecture & Design**  
-  Expert in **MVVM** and **MVI**, applying **Clean Architecture** to separate UI, domain, and data layers.
-
-- **Asynchronous & Reactive Systems**  
-  Extensive use of **Kotlin Coroutines** and **Flow** for lifecycle-aware, responsive UI and predictable state management.
-
-- **Dependency Injection**  
-  Production experience with **Hilt** and **Koin**, enabling modular, scalable, and maintainable codebases.
-
-- **Data Persistence**  
-  Local data management using **Room Database**, including schema design, migrations, and offline-first strategies.
-
-- **Networking & Integrations**  
-  Clean API layers built with **Retrofit**, Kotlin-first models, and structured error handling.
-
-- **Engineering Focus**  
-  Strong emphasis on **performance optimization**, **state management**, and long-term maintainability.
+- 📱 Specialized in **Android (Jetpack Compose)** & **iOS (SwiftUI)**
+- 🏗 Strong believer in **Clean Architecture, MVVM & MVI**
+- 🚀 Experience delivering **production-ready apps** from scratch
+- 🔐 Security, performance & scalability focused
+- 🤝 Comfortable working independently or in cross-functional teams
 
 ---
 
-## 🍎 iOS Engineering (Production-Ready)
+## 🛠 **Languages & Foundations**
 
-I build **high-quality iOS applications** using **Swift** and **SwiftUI**, balancing modern APIs with pragmatic engineering decisions.
-
-- **UI & Architecture**  
-  SwiftUI and UIKit using **MVVM** and **Clean Architecture**.
-
-- **Concurrency & Data Flow**  
-  Expert use of **Swift Concurrency (async/await)** and **Combine**.
-
-- **Persistence**  
-  Structured local storage using **Core Data**, with a focus on consistency and performance.
-
-- **Monetization**  
-  Full implementation of **StoreKit**, including subscriptions, receipt validation, entitlements, trials, and upgrades.
+<p align="left">
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
 
 ---
 
-## 💰 Monetization & Subscriptions (End-to-End)
+## 📱 **Mobile Frameworks & UI**
 
-I design and implement **secure, scalable monetization systems** across both platforms.
+<p align="left">
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=apple&logoColor=white"/>
+</p>
+
+- Declarative UI
+- State-driven rendering
+- Accessibility & performance aware design
+
+---
+
+## 🏗 **Architecture & Design Patterns**
+
+- **MVVM** (Android & iOS)
+- **MVI** (Unidirectional data flow)
+- **Clean Architecture**
+  - Domain / Data / Presentation layers
+  - Testable & scalable codebases
+- SOLID principles
+- Modularization for large apps
+
+---
+
+## 🔄 **Asynchronous & Reactive Programming**
 
 ### Android
-- Google Play Billing
-- Subscriptions & one-time purchases
-- Purchase acknowledgment & validation
-- Grace periods, renewals, and cancellations
+- **Kotlin Coroutines**
+- **Flow / StateFlow / SharedFlow**
 
 ### iOS
-- Apple StoreKit
-- Auto-renewable subscriptions
-- Receipt validation & entitlement handling
-- Intro offers, trials, and upgrades
-
-✔ Platform-compliant  
-✔ Production-safe  
-✔ Scalable for growth  
+- **Swift Concurrency (async/await)**
+- Combine (where applicable)
 
 ---
 
-## ☁️ Backend, Cloud & Analytics
+## 💉 **Dependency Injection**
 
-I work comfortably with **any backend exposing APIs**, and frequently design **Firebase-based backends from scratch** for mobile-first products.
+<p align="left">
+  <img src="https://img.shields.io/badge/Hilt-34A853?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Koin-2C2D72?style=for-the-badge&logo=kotlin&logoColor=white"/>
+</p>
 
-- Firebase Authentication
-- Firestore & Cloud Functions
-- Remote Config (feature flags & A/B testing)
-- Analytics & Crashlytics
-- AdMob integration
-- REST & API-driven architectures
-
----
-
-## 🏗 Engineering Philosophy
-
-I don’t just build apps — I engineer **systems that last**.
-
-- **Architecture:** Clean Architecture, MVVM, MVI  
-- **Code Quality:** SOLID principles, modularization, testability  
-- **Performance:** Memory profiling, startup optimization, smooth 60fps UI  
-- **Scalability:** Feature-driven design with long-term maintainability  
+- Lifecycle-aware DI
+- Scalable module-based injection
+- Test-friendly setups
 
 ---
 
-## 🚀 App Store & Play Store Ownership
+## 🗄 **Data & Persistence**
 
-I manage the **complete mobile release lifecycle**, including:
+<p align="left">
+  <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
 
-- App setup from scratch
-- Bundle IDs, signing & certificates
-- App Store Connect & Google Play Console
-- TestFlight & internal testing tracks
-- Metadata, screenshots & store listings
-- Versioning, rollout strategies & hotfixes
-- Policy compliance & release approvals
-
-✔ From empty repository → live production app  
+- Room Database
+- Firebase (Auth, Firestore, Analytics, Crashlytics)
+- Offline-first design strategies
 
 ---
 
-## 📫 Let’s Connect
-- 📧 Email: **ahsanshaaf@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/iamahsanshaaf
-- 📱 WhatsApp: **+92 345 4230761**
+## 🌐 **Networking & APIs**
 
-> *Engineering scalable, performant, and monetizable mobile products.*
+<p align="left">
+  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white"/>
+</p>
+
+- REST API integration
+- Retrofit + OkHttp
+- Error handling & retry strategies
+- Secure API consumption
+
+---
+
+## 🔐 **Production-Ready Practices**
+
+- Secure API key management
+- Environment-based configs (Dev / Staging / Prod)
+- Performance profiling
+- Crash monitoring
+- Analytics-driven decisions
+- App Store & Play Store release readiness
+
+---
+
+## 🧪 **Testing & Quality**
+
+- Unit testing (ViewModels, UseCases)
+- UI testing (Compose & SwiftUI)
+- Code reviews & refactoring
+- Maintainable and readable codebases
+
+---
+
+## 📦 **Tools & Workflow**
+
+- Git (feature-based branching)
+- CI-friendly project structures
+- Modular & scalable repositories
+- Bitbucket / GitHub workflows
+
+---
+
+## 📫 **Let’s Connect**
+
+- GitHub: [@iamahsanshaaf](https://github.com/iamahsanshaaf)
+- Open to collaboration, consulting & long-term projects
+
+---
+
+⭐ *I build software with the mindset of an engineer, not just a coder.*
