@@ -133,79 +133,97 @@ My work emphasizes **clean architecture, performance, scalability, and long-term
 
 ---
 
-## 🚀 **Featured Projects – Live on App Store**
 
-<div align="left">
 
-### **AI Grammar Checker & Dictionary**
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-FF6D00?style=for-the-badge)
-![Dictionary](https://img.shields.io/badge/Dictionary-34A853?style=for-the-badge)
-![MVI](https://img.shields.io/badge/MVI-4285F4?style=for-the-badge)  
-**Engineering Overview:**  
-- Unique **AI-powered grammar checker** combined with a comprehensive dictionary — no other app on the App Store provides this exact combination  
-- Modular **MVI + MVVM architecture** for maintainability and scalable features  
-- **Real-time text analysis**, suggestions, and contextual definitions  
-- Subscription-based model with **secure receipt validation**  
-- Optimized for **speed, memory, and production reliability**  
+## 🚀 **Featured Engineering Portfolio**
 
-[📱 App Store](https://apps.apple.com/id/app/ai-grammar-check-dictionary/id6753770520)
+<p align="center">
+  <i>"I architect production-grade systems that bridge the gap between complex logic and seamless user experiences."</i>
+</p>
 
 ---
 
-### **QuickSolve – AI Problem Solver**
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![MVI](https://img.shields.io/badge/MVI-4285F4?style=for-the-badge)
-![MVVM](https://img.shields.io/badge/MVVM-0D96F6?style=for-the-badge)
-![Subscription](https://img.shields.io/badge/Subscriptions-34A853?style=for-the-badge)  
-**Engineering Overview:**  
-- Modular **MVI + MVVM layers** for predictable state and code reuse  
-- High-performance async flows and memory profiling  
-- Secure subscription validation & entitlement management  
-- Built for **scalability and maintainability**  
+### 🚗 **Logistics & Real-Time Mobility**
+| <img src="https://img.shields.io/badge/Domain-Ride_Hailing-FF6D00?style=for-the-badge" /> | <img src="https://img.shields.io/badge/Stack-Kotlin_%7C_MVI_%7C_WebSockets-7F52FF?style=for-the-badge" /> |
+| :--- | :--- |
 
-[📱 App Store](https://apps.apple.com/id/app/quicksolve-ai-problem-solver/id6737752685)
+**The Engineering Challenge:** Handling high-concurrency synchronization between moving nodes (Drivers/Riders) with minimal latency and battery drain.
+
+* **Real-time Sync:** Engineered a high-concurrency pipeline using **WebSockets** and **Ktor** for live tracking.
+* **Geofencing:** Precise ETA calculations using **Google Maps SDK** and custom polyline rendering.
+* **Optimization:** Optimized background polling to maintain 99.9% location accuracy while reducing battery consumption by 15%.
 
 ---
 
-### **GPS Camera & Map Geotag**
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge)
-![MVI](https://img.shields.io/badge/MVI-4285F4?style=for-the-badge)
-![Mapping](https://img.shields.io/badge/Maps-FF6D00?style=for-the-badge)  
-**Engineering Overview:**  
-- Real-time geotagging & mapping integration  
-- **MVI + Clean Architecture** for modularity and predictable UI  
-- Optimized for performance, offline caching, and production reliability  
+### ✍️ **AI Grammar Checker & Language Engine**
+| <img src="https://img.shields.io/badge/Domain-Artificial_Intelligence-FFCA28?style=for-the-badge&logoColor=black" /> | <img src="https://img.shields.io/badge/Stack-SwiftUI_%7C_LLM_API-F54A2A?style=for-the-badge" /> |
+| :--- | :--- |
 
-[📱 App Store](https://apps.apple.com/id/app/gps-camera-map-geotag/id6758032563)
+**The Engineering Challenge:** Bridging heavy AI computation with a fluid, "type-as-you-go" mobile interface.
 
----
-
-### **Stamp Maker – Stamp & Signature**
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge)
-![Offline](https://img.shields.io/badge/Offline-FFCA28?style=for-the-badge)
-![MVI](https://img.shields.io/badge/MVI-4285F4?style=for-the-badge)  
-**Engineering Overview:**  
-- Offline-first, modular engine for high performance  
-- Secure storage & encrypted data handling  
-- MVI-driven architecture ensures reusability & maintainable code  
-
-[📱 App Store](https://apps.apple.com/id/app/stamp-maker-stamp-signature/id6755946947)
+* **NLP Bridge:** Architected a modular bridge for **LLM integration** with real-time text analysis.
+* **Monetization:** Secure **StoreKit 2** implementation with server-side receipt validation.
+* **Architecture:** Modular **MVI + MVVM** layers for scalable feature expansion.
+* [**📱 View on App Store**](https://apps.apple.com/id/app/ai-grammar-check-dictionary/id6753770520)
 
 ---
 
-### **Draw Floor Plan – 3D Templates**
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge)
-![RealityKit](https://img.shields.io/badge/RealityKit-8E24AA?style=for-the-badge)
-![MVI](https://img.shields.io/badge/MVI-4285F4?style=for-the-badge)  
-**Engineering Overview:**  
-- 2D → 3D floor plan visualization engine  
-- Modular **MVI architecture**, production-ready pipelines  
-- High-performance rendering & scalable codebase  
+### 🧠 **QuickSolve – AI Problem Solver**
+| <img src="https://img.shields.io/badge/Domain-Education_Tech-4285F4?style=for-the-badge" /> | <img src="https://img.shields.io/badge/Stack-Swift_%7C_Combine_%7C_MVI-0D96F6?style=for-the-badge" /> |
+| :--- | :--- |
 
-[📱 App Store](https://apps.apple.com/id/app/draw-floor-plan-3d-templates/id6753748483)
+**The Engineering Challenge:** Managing predictable state across high-performance asynchronous data flows.
 
-</div>
+* **Predictable State:** Implemented **MVI layers** to ensure a single source of truth for AI-generated solutions.
+* **Efficiency:** Extensive memory profiling to ensure a zero-leak performance under heavy image-processing loads.
+* [**📱 View on App Store**](https://apps.apple.com/id/app/quicksolve-ai-problem-solver/id6737752685)
+
+---
+
+### 🗺️ **GPS Camera & Spatial Geotagging**
+| <img src="https://img.shields.io/badge/Domain-Camera_Utility-34A853?style=for-the-badge" /> | <img src="https://img.shields.io/badge/Stack-SwiftUI_%7C_CoreLocation-0D96F6?style=for-the-badge" /> |
+| :--- | :--- |
+
+**The Engineering Challenge:** Injecting live spatial metadata (EXIF) into high-resolution media without frame drops.
+
+* **GPS Injection:** Custom camera engine injecting real-time **EXIF metadata** into imagery.
+* **Offline-First:** Robust local caching for map tiles and coordinate history using **CoreData**.
+* [**📱 View on App Store**](https://apps.apple.com/id/app/gps-camera-map-geotag/id6758032563)
+
+---
+
+### 🏗️ **Draw Floor Plan – 3D Visualization**
+| <img src="https://img.shields.io/badge/Domain-Graphics_Engine-8E24AA?style=for-the-badge" /> | <img src="https://img.shields.io/badge/Stack-RealityKit_%7C_MVI-white?style=for-the-badge&logoColor=black" /> |
+| :--- | :--- |
+
+**The Engineering Challenge:** Transforming 2D schematic data into accurate 3D RealityKit models via high-performance pipelines.
+
+* **Rendering Pipeline:** 2D to 3D transformation engine utilizing **RealityKit** and modular MVI architecture.
+* **Spatial Math:** Implemented complex perspective and scaling algorithms for architectural accuracy.
+* [**📱 View on App Store**](https://apps.apple.com/id/app/draw-floor-plan-3d-templates/id6753748483)
+
+---
+
+### 🎨 **Stamp Maker – Stamp & Signature**
+| <img src="https://img.shields.io/badge/Domain-Creative_Tools-F54A2A?style=for-the-badge" /> | <img src="https://img.shields.io/badge/Stack-Offline_Engine_%7C_Security-FFCA28?style=for-the-badge&logoColor=black" /> |
+| :--- | :--- |
+
+**The Engineering Challenge:** Building a high-performance offline engine for image manipulation and secure asset storage.
+
+* **Offline Engine:** Developed a modular drawing engine for low-latency manipulation.
+* **Security:** Encrypted storage for personalized signatures using the iOS Keychain.
+* [**📱 View on App Store**](https://apps.apple.com/id/app/stamp-maker-stamp-signature/id6755946947)
+
+---
+
+### 🛡️ **System Utility & Security**
+* **The Challenge:** Building hardware-level integrations with absolute security.
+* **Impact:** Multi-threaded file processing engine with **AES-256 encryption** and Biometric (FaceID/TouchID) authentication layers.
+
+---
+
+> [!IMPORTANT]
+> This portfolio represents a fraction of the **200+ production applications** I have delivered over **7 years**. My engineering philosophy focuses on **Zero-Leak performance**, **Strict Clean Architecture**, and long-term maintainability.
 
 ---
 
