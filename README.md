@@ -121,6 +121,22 @@ My work emphasizes **clean architecture, performance, scalability, and long-term
 
 <div align="left">
 
+### **AI Grammar Checker & Dictionary**
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-FF6D00?style=for-the-badge)
+![Dictionary](https://img.shields.io/badge/Dictionary-34A853?style=for-the-badge)
+![MVI](https://img.shields.io/badge/MVI-4285F4?style=for-the-badge)  
+**Engineering Overview:**  
+- Unique **AI-powered grammar checker** combined with a comprehensive dictionary — no other app on the App Store provides this exact combination  
+- Modular **MVI + MVVM architecture** for maintainability and scalable features  
+- **Real-time text analysis**, suggestions, and contextual definitions  
+- Subscription-based model with **secure receipt validation**  
+- Optimized for **speed, memory, and production reliability**  
+
+[📱 App Store](https://apps.apple.com/id/app/ai-grammar-check-dictionary/id6753770520)
+
+---
+
 ### **QuickSolve – AI Problem Solver**
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![MVI](https://img.shields.io/badge/MVI-4285F4?style=for-the-badge)
