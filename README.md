@@ -23,8 +23,6 @@ My work emphasizes **clean architecture, performance, scalability, and long-term
   <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 - Strong understanding of **OOP & Functional Programming**
@@ -162,6 +160,11 @@ My work emphasizes **clean architecture, performance, scalability, and long-term
 ## 📫 **Connect With Me**
 
 - GitHub: [@iamahsanshaaf](https://github.com/iamahsanshaaf)
+- LinkedIn: [linkedin.com/in/iamahsanshaaf](https://www.linkedin.com/in/iamahsanshaaf/)
+- Email: [ahsanshaaf@gmail.com](mailto:ahsanshaaf@gmail.com)
+- Upwork: [Upwork Profile](https://www.upwork.com/freelancers/iamahsanshaaf)
+- Fiverr: [Fiverr Profile](https://www.fiverr.com/sellers/creativesaani/)
+
 
 ---
 
