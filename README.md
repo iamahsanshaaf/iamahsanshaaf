@@ -118,24 +118,13 @@ My work emphasizes **clean architecture, performance, scalability, and long-term
 
 ## 🚀 **Featured Projects**
 
-### 🏠 **Draw Floor Plan – 2D & 3D**
-- iOS app for designing floor plans with real-time 2D → 3D visualization
-- SwiftUI + RealityKit
-- Clean Architecture & modular engine design
+| App                                 | Overview                                                                                                                                                                                                                                      | Link                                                                                 |
+| ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| **QuickSolve – AI Problem Solver**  | AI-powered problem solving platform for learning & productivity. Built with **MVI + modular MVVM layers**, ensuring **code reuse, maintainability, and scalability**. Optimized for **performance, security, and subscription monetization**. | [App Store](https://apps.apple.com/id/app/quicksolve-ai-problem-solver/id6737752685) |
+| **GPS Camera & Map Geotag**         | Location-based camera app with **real-time geotagging and mapping integration**. Architected with **MVI and Clean Architecture** for predictable state, reusable components, and production-grade performance.                                | [App Store](https://apps.apple.com/id/app/gps-camera-map-geotag/id6758032563)        |
+| **Stamp Maker – Stamp & Signature** | Custom stamp and signature creation app with **offline storage, secure data handling, and modular engine design**. Engineered with **MVI** for high **code reuse, predictable state, and optimized UI flows**.                                | [App Store](https://apps.apple.com/id/app/stamp-maker-stamp-signature/id6755946947)  |
+| **Draw Floor Plan – 3D Templates**  | Advanced 2D → 3D floor plan visualization app. Developed with **RealityKit** and a **modular, production-ready MVI engine** for efficient rendering, high performance, and long-term maintainability.                                         | [App Store](https://apps.apple.com/id/app/draw-floor-plan-3d-templates/id6753748483) |
 
-### ✍️ **Grammar AI**
-- AI-powered writing & grammar correction app
-- In-App Purchases, Reviews, Analytics
-- Scalable MVVM architecture
-
-### 📐 **3D Floor Engine**
-- Custom 3D engine for room & object rendering
-- Optimized rendering pipelines
-- Production-ready architecture
-
-### 📊 **Learning & Utility Apps**
-- OCR, Math recognition, AI-powered tools
-- Secure API handling & optimized UI flows
 
 ---
 
