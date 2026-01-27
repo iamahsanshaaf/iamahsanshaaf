@@ -87,7 +87,7 @@ My work emphasizes **clean architecture, performance, scalability, and long-term
 <p align="left">
   <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OkHttp-000000?style=for-the-badge&logo=okhttp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Koin-2C2D72?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/coin-2C2D72?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Swift-0D96F6?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
 
