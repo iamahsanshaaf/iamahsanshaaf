@@ -1,117 +1,131 @@
-# Hi, I'm Muhammad Ahsan Shaaf 👋  
+# Muhammad Ahsan Shaaf 👋  
 ### Senior Software Engineer | Mobile Architect (Android & iOS)
 
-I am a **Senior Software Engineer** with **7+ years of experience** designing, building, and scaling **production-grade mobile applications** for Android and iOS.  
-I specialize in **modern mobile architecture**, **AI-powered features**, and **monetization systems**, with full ownership of the product lifecycle — from idea to **App Store & Play Store deployment**.
+I am a **Senior Software Engineer** with **7+ years of professional experience** designing, building, and scaling **production-grade mobile applications** for **Android and iOS**.
+
+My expertise lies in **modern mobile architecture**, **high-performance UI systems**, and **monetization-driven products**, with full ownership of the mobile lifecycle — from system design and implementation to **App Store** and **Google Play** deployment.
+
+I focus on building **maintainable, scalable, and resilient systems** that perform reliably at scale.
 
 - 🌍 Based in **Islamabad, Pakistan**
 - 🎓 **MS in Software Engineering** — UET Taxila
-- 🚀 Focused on **AI Integration**, **Subscriptions & Monetization**, and **Scalable Mobile Systems**
-- 🛠 Strong advocate of **Clean Architecture**, **SOLID principles**, and **long-term maintainability**
+- 🚀 Specialization: **Swift / SwiftUI** & **Kotlin / Jetpack Compose**
+- 🛠 Advocate of **Clean Architecture**, **SOLID principles**, and long-term product sustainability
 
 ---
 
-## 🛠 Core Technical Arsenal
+## 🧠 Engineering Expertise
 
-### **Languages & Foundations**
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### **Modern Mobile Development**
-
-**Android**
-- Jetpack Compose
-- Kotlin Coroutines & Flow
-- Dagger-Hilt
-- Room Database
-- Retrofit / OkHttp
-
-**iOS**
-- SwiftUI & UIKit
-- Swift Concurrency (async/await)
-- Combine
-- Core Data
-- StoreKit (Subscriptions & IAP)
+### Programming Languages & Foundations
+- **Swift**
+- **Kotlin**
+- **Java**
+- **SQL**
+- Strong understanding of platform-native concurrency and memory management
 
 ---
 
-### **Monetization & Subscriptions (End-to-End)**
+## 📱 Android Engineering (Modern & Scalable)
 
-- **Google Play Billing**
-  - Subscriptions, One-time IAP
-  - Purchase acknowledgment & validation
-  - Grace period, renewals, cancellations
-  - Play Console configuration & testing
+I architect and deliver **robust Android applications** using **Jetpack Compose** and **modern architectural patterns**, with a strong emphasis on **clarity, testability, and scalability**.
 
-- **Apple StoreKit**
-  - Auto-renewable subscriptions
-  - Receipt validation & entitlement management
-  - Intro offers, trials, and upgrades
-  - App Store Connect configuration
+- **Architecture & Design**  
+  Expert in **MVVM** and **MVI**, applying **Clean Architecture** to separate UI, domain, and data layers.
 
-✔ Secure purchase flows  
-✔ Server-ready receipt validation  
-✔ Production-safe entitlement handling  
+- **Asynchronous & Reactive Systems**  
+  Extensive use of **Kotlin Coroutines** and **Flow** for lifecycle-aware, responsive UI and predictable state management.
+
+- **Dependency Injection**  
+  Production experience with **Hilt** and **Koin**, enabling modular, scalable, and maintainable codebases.
+
+- **Data Persistence**  
+  Local data management using **Room Database**, including schema design, migrations, and offline-first strategies.
+
+- **Networking & Integrations**  
+  Clean API layers built with **Retrofit**, Kotlin-first models, and structured error handling.
+
+- **Engineering Focus**  
+  Strong emphasis on **performance optimization**, **state management**, and long-term maintainability.
 
 ---
 
-### **Backend, Cloud & Analytics**
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+## 🍎 iOS Engineering (Production-Ready)
 
-- Firebase Auth, Firestore, Cloud Functions
+I build **high-quality iOS applications** using **Swift** and **SwiftUI**, balancing modern APIs with pragmatic engineering decisions.
+
+- **UI & Architecture**  
+  SwiftUI and UIKit using **MVVM** and **Clean Architecture**.
+
+- **Concurrency & Data Flow**  
+  Expert use of **Swift Concurrency (async/await)** and **Combine**.
+
+- **Persistence**  
+  Structured local storage using **Core Data**, with a focus on consistency and performance.
+
+- **Monetization**  
+  Full implementation of **StoreKit**, including subscriptions, receipt validation, entitlements, trials, and upgrades.
+
+---
+
+## 💰 Monetization & Subscriptions (End-to-End)
+
+I design and implement **secure, scalable monetization systems** across both platforms.
+
+### Android
+- Google Play Billing
+- Subscriptions & one-time purchases
+- Purchase acknowledgment & validation
+- Grace periods, renewals, and cancellations
+
+### iOS
+- Apple StoreKit
+- Auto-renewable subscriptions
+- Receipt validation & entitlement handling
+- Intro offers, trials, and upgrades
+
+✔ Platform-compliant  
+✔ Production-safe  
+✔ Scalable for growth  
+
+---
+
+## ☁️ Backend, Cloud & Analytics
+
+I work comfortably with **any backend exposing APIs**, and frequently design **Firebase-based backends from scratch** for mobile-first products.
+
+- Firebase Authentication
+- Firestore & Cloud Functions
 - Remote Config (feature flags & A/B testing)
 - Analytics & Crashlytics
 - AdMob integration
-- REST API consumption
+- REST & API-driven architectures
 
 ---
 
 ## 🏗 Engineering Philosophy
 
-I build **systems**, not just screens.
+I don’t just build apps — I engineer **systems that last**.
 
-- **Architecture:** MVI, MVVM, Clean Architecture
-- **Code Quality:** SOLID, modularization, testable layers
-- **Performance:** Memory profiling, startup optimization, smooth 60fps UI
-- **Scalability:** Feature-driven architecture & long-term maintainability
+- **Architecture:** Clean Architecture, MVVM, MVI  
+- **Code Quality:** SOLID principles, modularization, testability  
+- **Performance:** Memory profiling, startup optimization, smooth 60fps UI  
+- **Scalability:** Feature-driven design with long-term maintainability  
 
 ---
 
-## 📦 App Store & Play Store Management
+## 🚀 App Store & Play Store Ownership
 
-I manage the **entire app lifecycle**, including:
+I manage the **complete mobile release lifecycle**, including:
 
-- App creation from scratch
+- App setup from scratch
 - Bundle IDs, signing & certificates
 - App Store Connect & Google Play Console
-- TestFlight & Internal Testing
+- TestFlight & internal testing tracks
 - Metadata, screenshots & store listings
 - Versioning, rollout strategies & hotfixes
 - Policy compliance & release approvals
 
-✔ From empty repo → live production app  
-
----
-
-## 🚀 Selected Technical Highlights
-
-| Area | Stack | Impact |
-|----|----|----|
-| AI Integration | OpenAI API, ML-based services | Intelligent, personalized user workflows |
-| Monetization | StoreKit, Google Billing | Secure, scalable subscription systems |
-| Dynamic Apps | Firebase Remote Config | Feature toggles without resubmission |
-| Real-Time Systems | WebSockets, Maps SDK | Sub-second data synchronization |
-
----
-
-## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamahsanshaaf&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamahsanshaaf&layout=compact&theme=tokyonight)
+✔ From empty repository → live production app  
 
 ---
 
@@ -120,4 +134,4 @@ I manage the **entire app lifecycle**, including:
 - 💼 LinkedIn: https://linkedin.com/in/iamahsanshaaf
 - 📱 WhatsApp: **+92 345 4230761**
 
-> *“Building scalable, intelligent, and monetizable mobile products.”*
+> *Engineering scalable, performant, and monetizable mobile products.*
