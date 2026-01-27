@@ -86,12 +86,28 @@ My work emphasizes **clean architecture, performance, scalability, and long-term
 
 <p align="left">
   <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OkHttp-000000?style=for-the-badge&logo=okhttp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Koin-2C2D72?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Swift-0D96F6?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
 
-- RESTful API consumption  
-- Retrofit + OkHttp  
-- Error handling & retry strategies  
-- Secure token & session management  
+### **Android (Kotlin)**  
+- Designed and implemented **modular, production-ready network layers** for multi-platform apps  
+- RESTful API consumption with **Retrofit + OkHttp** and Kotlin-based API handling library (**Coin**)  
+- **Structured error handling, retry strategies, and exponential backoff** for resilient apps  
+- Secure **token & session management**, including OAuth2, JWT, and refresh flows  
+- Generic API abstractions supporting **caching, versioning, and offline-first design**  
+- **Testable network layers** with DI integration (Hilt / Koin)  
+
+### **iOS (Swift)**  
+- Modern **URLSession & Combine**-based network layer with **async/await concurrency**  
+- Strongly-typed request/response decoders with **error handling, retry, and offline caching**  
+- Secure authentication, token storage, and session lifecycle management  
+- Aligned with **MVVM/MVI + Clean Architecture** for modular, maintainable apps  
+- Generic, reusable networking layer supporting **API versioning, caching, and real-time updates**  
+
+> 🚀 **Engineering Focus:** Architected high-performance, testable, secure, and production-ready networking across Android and iOS, ensuring **scalability, maintainability, and enterprise-grade reliability**.
+
 
 ---
 
