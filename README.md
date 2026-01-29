@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Muhammad Ahsan Shaaf
-### Senior Mobile Architect | Android & iOS Systems Engineer
+### Senior Software Engineer | Android & iOS Systems Engineer
 **Architecting high-performance mobile systems that scale to 10M+ users globally.**
 
 <p align="left">
@@ -285,12 +285,6 @@ Not many developers get to architect systems that reach 10M+ users. I've navigat
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamahsanshaaf&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamahsanshaaf&layout=compact&theme=radical)
-
----
 
 ## 🎯 Open to Opportunities
 
@@ -318,7 +312,7 @@ I'm currently exploring:
 <a href="https://twitter.com/iamahsanshaaf"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-**Location:** Hazro City, Punjab, Pakistan 🇵🇰  
+**Location:** Islamabad, Pakistan 🇵🇰  
 **Availability:** Open to remote opportunities globally  
 **Time Zone:** PKT (UTC+5) | Flexible for overlap with EU/US hours  
 
