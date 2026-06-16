@@ -5,30 +5,30 @@
 <br/>
 
 <a href="mailto:ahsanshaaf@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ahsanshaaf%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-ahsanshaaf%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/iamahsanshaaf/">
-  <img src="https://img.shields.io/badge/LinkedIn-Ahsan%20Shaaf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Ahsan%20Shaaf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://x.com/iamAhsanShaaf">
-  <img src="https://img.shields.io/badge/X-%40iamAhsanShaaf-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-%40iamAhsanShaaf-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" />
 </a>
 <a href="https://github.com/iamahsanshaaf">
-  <img src="https://img.shields.io/badge/GitHub-iamahsanshaaf-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-iamahsanshaaf-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/AdMob-EA4335?style=flat-square&logo=googleadmob&logoColor=white" />
-<img src="https://img.shields.io/badge/StoreKit-000000?style=flat-square&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Play%20Console-34A853?style=flat-square&logo=googleplay&logoColor=white" />
-<img src="https://img.shields.io/badge/App%20Store%20Connect-0D96F6?style=flat-square&logo=appstore&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+<img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="SwiftUI" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/AdMob-EA4335?style=flat-square&logo=googleadmob&logoColor=white" alt="AdMob" />
+<img src="https://img.shields.io/badge/StoreKit-000000?style=flat-square&logo=apple&logoColor=white" alt="StoreKit" />
+<img src="https://img.shields.io/badge/Play%20Console-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play Console" />
+<img src="https://img.shields.io/badge/App%20Store%20Connect-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store Connect" />
 
 </div>
 
@@ -42,38 +42,35 @@
 
 I am **Muhammad Ahsan Shaaf**, a **Senior Android & iOS Developer** and founder of **Intuitex AI Solutions**.
 
-I build complete mobile products for **startups, founders, businesses, product teams, and app publishers** — from idea and UI collaboration to development, APIs, monetization, deployment, and post-launch improvements.
+I help **startups, founders, businesses, and app publishers** build complete mobile products — from idea and UI collaboration to development, APIs, monetization, deployment, and post-launch optimization.
 
-My work covers:
+My work is focused on practical, production-ready mobile apps that are:
 
-- Product planning and feature breakdown
-- Figma/UI collaboration with designers
-- Native Android development
-- Native iOS development
-- API integration and backend collaboration
-- Firebase, analytics, crash tracking, and notifications
-- AdMob, IAP, subscriptions, and paywalls
-- App Store Connect and Google Play Console release management
-- Store-ready polishing, testing, updates, and optimization
+- Easy to use
+- Stable in real-world conditions
+- Ready for App Store and Play Store launch
+- Built with clean architecture
+- Prepared for ads, subscriptions, analytics, and growth
 
 </td>
 <td width="45%" valign="top">
 
-## 🎯 My Positioning
+## 🎯 What I Bring
 
-I do not only build screens.
+I do more than implement screens.
 
-I build complete apps with:
+I can manage the complete mobile product cycle:
 
-- Clean user experience
-- Stable architecture
-- Scalable API integration
-- Monetization readiness
-- Store compliance awareness
-- Real release management
-- Long-term maintainability
+- Product and feature planning
+- Figma-to-app implementation
+- Android and iOS development
+- Backend/API collaboration
+- Firebase and analytics setup
+- AdMob, IAP, and subscriptions
+- Store deployment and release management
+- Long-term improvements after launch
 
-> My goal is to build mobile products ready for real users, real growth, and real business outcomes.
+> My goal is to build mobile products that are not only beautiful, but also usable, scalable, monetized, and ready for real users.
 
 </td>
 </tr>
@@ -83,18 +80,18 @@ I build complete apps with:
 
 <img src="./assets/cleandense-showcase.png" alt="Cleandense Complete Laundry Management Software" width="100%" />
 
-## 🧼 Cleandense — Main Featured Product
+## 🧼 Featured Product: Cleandense
 
-**Cleandense** is a complete laundry management software ecosystem designed to manage the full laundry business workflow from customer order placement to pickup, washing, delivery, driver operations, and admin control.
+**Cleandense** is a complete laundry management software ecosystem built to manage the full laundry business workflow — from customer order placement to pickup, processing, delivery, driver operations, and admin control.
 
-It is not just an app. It is a complete product ecosystem:
+This is not just a mobile app. It is a complete business software system with customer apps, driver workflows, web/dashboard management, and backend-powered operations.
 
 <table>
 <tr>
-<td width="25%" align="center"><b>Customer App</b><br/>Order placement<br/>Pickup scheduling<br/>Order tracking<br/>Order history</td>
-<td width="25%" align="center"><b>Driver App</b><br/>Assigned jobs<br/>Pickup confirmation<br/>Delivery confirmation<br/>Status updates</td>
-<td width="25%" align="center"><b>Admin Dashboard</b><br/>Order monitoring<br/>Customer control<br/>Driver control<br/>Service management</td>
-<td width="25%" align="center"><b>Backend APIs</b><br/>Order lifecycle<br/>User data flow<br/>Driver flow<br/>Business rules</td>
+<td width="25%" align="center"><b>Customer App</b><br/>Order placement<br/>Service selection<br/>Pickup scheduling<br/>Order tracking<br/>Order history</td>
+<td width="25%" align="center"><b>Driver App</b><br/>Assigned jobs<br/>Pickup confirmation<br/>Delivery confirmation<br/>Status updates<br/>Operational flow</td>
+<td width="25%" align="center"><b>Admin Dashboard</b><br/>Order monitoring<br/>Customer control<br/>Driver control<br/>Service management<br/>Business overview</td>
+<td width="25%" align="center"><b>Backend APIs</b><br/>Order lifecycle<br/>User data flow<br/>Driver flow<br/>Status updates<br/>Business rules</td>
 </tr>
 </table>
 
@@ -102,13 +99,13 @@ It is not just an app. It is a complete product ecosystem:
 
 | Area | Contribution |
 |---|---|
-| Product Workflow | Converted laundry business operations into mobile user journeys |
+| Product Workflow | Converted laundry business operations into clear mobile user journeys |
 | Android App | Developed and managed Android customer and workflow features |
 | iOS App | Developed and managed iOS customer and workflow features |
 | Driver Flow | Worked on Uber/Careem-style pickup and delivery job workflows |
-| UI/UX Collaboration | Coordinated with UI/UX team for Figma designs and implementation |
+| UI/UX Collaboration | Coordinated with UI/UX team for Figma design implementation |
 | Backend Collaboration | Coordinated with backend developer for APIs, data flow, and feature behavior |
-| Testing & Improvements | Tested flows, fixed bugs, improved app quality and user experience |
+| Testing & Improvements | Tested core flows, fixed bugs, improved usability, and refined product quality |
 
 ```mermaid
 flowchart LR
@@ -130,26 +127,26 @@ flowchart LR
 <details open>
 <summary><b>📱 Android App Development</b></summary>
 
-- Kotlin and Jetpack Compose apps
-- Custom Android apps
-- API-based Android apps
-- Firebase-powered apps
-- AdMob and Play Billing
+- Native Android apps using Kotlin and Jetpack Compose
+- Custom business, utility, productivity, and AI apps
+- API-based Android apps with clean architecture
+- Firebase-powered apps with analytics and crash tracking
+- AdMob ads and Play Billing integration
 - Google Play Console release support
-- Existing app redesign and bug fixing
+- Existing app redesign, refactoring, bug fixing, and optimization
 
 </details>
 
 <details open>
 <summary><b>🍎 iOS App Development</b></summary>
 
-- Swift and SwiftUI apps
-- Custom iOS apps
-- API-based iOS apps
-- StoreKit IAP and subscriptions
-- Firebase and API integration
-- App Store Connect deployment
-- App redesign and production polish
+- Native iOS apps using Swift and SwiftUI
+- Custom iOS apps for startups, businesses, and app publishers
+- API-based iOS apps with modern app structure
+- StoreKit IAP and subscription implementation
+- Firebase and backend API integration
+- App Store Connect deployment and update support
+- Existing iOS app redesign, cleanup, and production polish
 
 </details>
 
@@ -159,10 +156,11 @@ flowchart LR
 - Customer apps
 - Driver apps
 - Admin/dashboard-connected apps
-- Service booking apps
+- Booking and service apps
 - Delivery workflow apps
 - Business management apps
 - End-to-end mobile product development
+- Backend collaboration and API workflow integration
 
 </details>
 
@@ -173,8 +171,10 @@ flowchart LR
 - AI chat apps
 - AI keyboard apps
 - AI dictionary and productivity tools
-- OpenAI / Gemini integration
+- AI scanner and assistant features
+- OpenAI / Gemini API integration
 - Prompt-based mobile workflows
+- API-cost-aware AI product design
 
 </details>
 
@@ -182,12 +182,13 @@ flowchart LR
 <summary><b>💰 App Monetization & Store Management</b></summary>
 
 - AdMob setup and ad placement strategy
-- Remote Config monetization control
+- Native ads, interstitial ads, app open ads, rewarded ads
+- Remote Config-based monetization control
 - In-app purchases
 - Auto-renewable subscriptions
 - Paywalls
-- App Store and Play Store launch support
 - Store metadata and compliance preparation
+- App Store and Play Store launch support
 
 </details>
 
@@ -200,7 +201,7 @@ flowchart LR
 | Complete Product Systems | Cleandense laundry software with web, dashboard, Android, iOS, and driver workflow |
 | High-Scale Android Apps | Developed and contributed to apps reaching **10M+ installs** |
 | iOS Portfolio | Selected App Store apps across AI, utility, maps, scanner, lifestyle, and productivity |
-| Monetization | AdMob, IAP, subscriptions, paywalls, remote config |
+| Monetization | AdMob, IAP, subscriptions, paywalls, Remote Config |
 | Store Deployment | Google Play Console and App Store Connect |
 | AI Apps | AI writer, AI keyboard, AI dictionary, AI assistant, AI utilities |
 | Business Apps | Laundry systems, dashboard-connected apps, driver workflows, service apps |
