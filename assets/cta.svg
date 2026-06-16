@@ -1,0 +1,11 @@
+<svg width="1500" height="360" viewBox="0 0 1500 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1500" y2="360"><stop stop-color="#050816"/><stop offset=".5" stop-color="#071B3A"/><stop offset="1" stop-color="#160A3A"/></linearGradient>
+<linearGradient id="g" x1="180" y1="70" x2="1320" y2="300"><stop stop-color="#22D3EE"/><stop offset=".5" stop-color="#3B82F6"/><stop offset="1" stop-color="#A855F7"/></linearGradient>
+</defs>
+<rect width="1500" height="360" rx="42" fill="url(#bg)"/>
+<rect x="88" y="70" width="1324" height="220" rx="36" fill="#0B1225" stroke="url(#g)" stroke-width="3"/>
+<text x="170" y="150" font-size="50" font-weight="950" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial">Let’s Build Your Next Mobile Product</text>
+<text x="172" y="207" font-size="28" font-weight="650" fill="#C7D2FE" font-family="Inter, Segoe UI, Arial">Idea → Figma → Android/iOS → APIs → Monetization → Store Launch</text>
+<text x="172" y="256" font-size="24" font-weight="650" fill="#EAF2FF" font-family="Inter, Segoe UI, Arial">Available for freelance, contract, remote, and long-term mobile app projects.</text>
+</svg>

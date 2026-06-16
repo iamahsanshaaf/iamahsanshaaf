@@ -1,0 +1,51 @@
+<svg width="1500" height="760" viewBox="0 0 1500 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1500" y2="760"><stop stop-color="#06111F"/><stop offset=".55" stop-color="#071B3A"/><stop offset="1" stop-color="#180C3D"/></linearGradient>
+    <linearGradient id="g" x1="90" y1="80" x2="1400" y2="700"><stop stop-color="#22D3EE"/><stop offset=".5" stop-color="#3B82F6"/><stop offset="1" stop-color="#A855F7"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="28"/></filter>
+    <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000" flood-opacity=".35"/></filter>
+  </defs>
+  <rect width="1500" height="760" rx="42" fill="url(#bg)"/>
+  <circle cx="1290" cy="115" r="260" fill="#22D3EE" opacity=".13" filter="url(#glow)"/>
+  <circle cx="160" cy="650" r="300" fill="#A855F7" opacity=".13" filter="url(#glow)"/>
+
+  <text x="88" y="105" font-size="29" font-weight="900" fill="#67E8F9" font-family="Inter, Segoe UI, Arial">MAIN FEATURED PRODUCT</text>
+  <text x="88" y="184" font-size="78" font-weight="950" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial">Cleandense</text>
+  <text x="92" y="236" font-size="31" font-weight="650" fill="#C7D2FE" font-family="Inter, Segoe UI, Arial">Complete Laundry Management Software</text>
+
+  <rect x="86" y="300" width="1328" height="88" rx="28" fill="#0B1225" stroke="url(#g)" stroke-width="2" filter="url(#shadow)"/>
+  <text x="128" y="356" font-size="28" font-weight="800" fill="#EAF2FF" font-family="Inter, Segoe UI, Arial">Web App · Admin Dashboard · Android App · iOS App · Driver Workflow · Backend APIs</text>
+
+  <g filter="url(#shadow)">
+    <rect x="86" y="442" width="300" height="204" rx="30" fill="#0B1225" stroke="#164E63"/>
+    <text x="126" y="498" font-size="29" font-weight="950" fill="#67E8F9" font-family="Inter, Segoe UI, Arial">Customer App</text>
+    <text x="126" y="550" font-size="23" font-weight="650" fill="#DBEAFE" font-family="Inter, Segoe UI, Arial">Order placement</text>
+<text x="126" y="584" font-size="23" font-weight="650" fill="#DBEAFE" font-family="Inter, Segoe UI, Arial">Pickup scheduling</text>
+<text x="126" y="618" font-size="23" font-weight="650" fill="#DBEAFE" font-family="Inter, Segoe UI, Arial">Order tracking</text>
+<text x="126" y="652" font-size="23" font-weight="650" fill="#DBEAFE" font-family="Inter, Segoe UI, Arial">Order history</text>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="418" y="442" width="300" height="204" rx="30" fill="#0B1225" stroke="#1D4ED8"/>
+    <text x="458" y="498" font-size="29" font-weight="950" fill="#93C5FD" font-family="Inter, Segoe UI, Arial">Driver App</text>
+    <text x="458" y="550" font-size="23" font-weight="650" fill="#DBEAFE" font-family="Inter, Segoe UI, Arial">Assigned jobs</text>
+<text x="458" y="584" font-size="23" font-weight="650" fill="#DBEAFE" font-family="Inter, Segoe UI, Arial">Pickup confirmation</text>
+<text x="458" y="618" font-size="23" font-weight="650" fill="#DBEAFE" font-family="Inter, Segoe UI, Arial">Delivery confirmation</text>
+<text x="458" y="652" font-size="23" font-weight="650" fill="#DBEAFE" font-family="Inter, Segoe UI, Arial">Status updates</text>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="750" y="442" width="300" height="204" rx="30" fill="#0B1225" stroke="#6D28D9"/>
+    <text x="790" y="498" font-size="29" font-weight="950" fill="#C4B5FD" font-family="Inter, Segoe UI, Arial">Dashboard</text>
+    <text x="790" y="550" font-size="23" font-weight="650" fill="#EDE9FE" font-family="Inter, Segoe UI, Arial">Order monitoring</text>
+<text x="790" y="584" font-size="23" font-weight="650" fill="#EDE9FE" font-family="Inter, Segoe UI, Arial">Customer control</text>
+<text x="790" y="618" font-size="23" font-weight="650" fill="#EDE9FE" font-family="Inter, Segoe UI, Arial">Driver control</text>
+<text x="790" y="652" font-size="23" font-weight="650" fill="#EDE9FE" font-family="Inter, Segoe UI, Arial">Service management</text>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="1082" y="442" width="332" height="204" rx="30" fill="#0B1225" stroke="#9333EA"/>
+    <text x="1122" y="498" font-size="29" font-weight="950" fill="#F0ABFC" font-family="Inter, Segoe UI, Arial">My Role</text>
+    <text x="1122" y="550" font-size="23" font-weight="650" fill="#FAE8FF" font-family="Inter, Segoe UI, Arial">Android + iOS</text>
+<text x="1122" y="584" font-size="23" font-weight="650" fill="#FAE8FF" font-family="Inter, Segoe UI, Arial">Figma coordination</text>
+<text x="1122" y="618" font-size="23" font-weight="650" fill="#FAE8FF" font-family="Inter, Segoe UI, Arial">Backend collaboration</text>
+<text x="1122" y="652" font-size="23" font-weight="650" fill="#FAE8FF" font-family="Inter, Segoe UI, Arial">Product workflow</text>
+  </g>
+</svg>

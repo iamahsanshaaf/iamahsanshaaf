@@ -1,0 +1,45 @@
+<svg width="1500" height="820" viewBox="0 0 1500 820" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1500" y2="820"><stop stop-color="#050816"/><stop offset=".5" stop-color="#071B3A"/><stop offset="1" stop-color="#120A2E"/></linearGradient>
+<filter id="shadow"><feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#000" flood-opacity=".35"/></filter>
+</defs>
+<rect width="1500" height="820" rx="42" fill="url(#bg)"/>
+<text x="90" y="108" font-size="56" font-weight="950" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial">What I Can Build &amp; Manage</text>
+<text x="92" y="158" font-size="27" font-weight="650" fill="#BBD7FF" font-family="Inter, Segoe UI, Arial">Complete mobile app development, AI integration, monetization, and store launch support.</text>
+<g filter="url(#shadow)">
+  <rect x="90" y="230" width="400" height="200" rx="30" fill="#0B1225" stroke="#22D3EE"/>
+  <text x="126" y="286" font-size="31" font-weight="950" fill="#67E8F9" font-family="Inter, Segoe UI, Arial">Android Apps</text>
+  <text x="126" y="334" font-size="24" fill="#EAF2FF" font-family="Inter, Segoe UI, Arial">Kotlin · Compose · Firebase</text>
+  <text x="126" y="372" font-size="24" fill="#EAF2FF" font-family="Inter, Segoe UI, Arial">APIs · AdMob · Play Billing</text>
+</g>
+<g filter="url(#shadow)">
+  <rect x="550" y="230" width="400" height="200" rx="30" fill="#0B1225" stroke="#3B82F6"/>
+  <text x="586" y="286" font-size="31" font-weight="950" fill="#93C5FD" font-family="Inter, Segoe UI, Arial">iOS Apps</text>
+  <text x="586" y="334" font-size="24" fill="#EAF2FF" font-family="Inter, Segoe UI, Arial">Swift · SwiftUI · StoreKit</text>
+  <text x="586" y="372" font-size="24" fill="#EAF2FF" font-family="Inter, Segoe UI, Arial">IAP · Subscriptions · Launch</text>
+</g>
+<g filter="url(#shadow)">
+  <rect x="1010" y="230" width="400" height="200" rx="30" fill="#0B1225" stroke="#A855F7"/>
+  <text x="1046" y="286" font-size="31" font-weight="950" fill="#C4B5FD" font-family="Inter, Segoe UI, Arial">AI Mobile Apps</text>
+  <text x="1046" y="334" font-size="24" fill="#EAF2FF" font-family="Inter, Segoe UI, Arial">OpenAI · Gemini · AI tools</text>
+  <text x="1046" y="372" font-size="24" fill="#EAF2FF" font-family="Inter, Segoe UI, Arial">Chat · Writer · Keyboard · OCR</text>
+</g>
+<g filter="url(#shadow)">
+  <rect x="90" y="480" width="400" height="200" rx="30" fill="#0B1225" stroke="#22D3EE"/>
+  <text x="126" y="536" font-size="31" font-weight="950" fill="#67E8F9" font-family="Inter, Segoe UI, Arial">Business Systems</text>
+  <text x="126" y="584" font-size="24" fill="#EAF2FF" font-family="Inter, Segoe UI, Arial">Customer apps · Driver apps</text>
+  <text x="126" y="622" font-size="24" fill="#EAF2FF" font-family="Inter, Segoe UI, Arial">Dashboard-connected workflows</text>
+</g>
+<g filter="url(#shadow)">
+  <rect x="550" y="480" width="400" height="200" rx="30" fill="#0B1225" stroke="#3B82F6"/>
+  <text x="586" y="536" font-size="31" font-weight="950" fill="#93C5FD" font-family="Inter, Segoe UI, Arial">Monetization</text>
+  <text x="586" y="584" font-size="24" fill="#EAF2FF" font-family="Inter, Segoe UI, Arial">AdMob · IAP · Paywalls</text>
+  <text x="586" y="622" font-size="24" fill="#EAF2FF" font-family="Inter, Segoe UI, Arial">Remote Config · Subscriptions</text>
+</g>
+<g filter="url(#shadow)">
+  <rect x="1010" y="480" width="400" height="200" rx="30" fill="#0B1225" stroke="#A855F7"/>
+  <text x="1046" y="536" font-size="31" font-weight="950" fill="#C4B5FD" font-family="Inter, Segoe UI, Arial">Store Management</text>
+  <text x="1046" y="584" font-size="24" fill="#EAF2FF" font-family="Inter, Segoe UI, Arial">App Store Connect · Play Console</text>
+  <text x="1046" y="622" font-size="24" fill="#EAF2FF" font-family="Inter, Segoe UI, Arial">Testing · Review · Release</text>
+</g>
+</svg>

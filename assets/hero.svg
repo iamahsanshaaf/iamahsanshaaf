@@ -1,0 +1,51 @@
+<svg width="1500" height="650" viewBox="0 0 1500 650" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1500" y2="650">
+      <stop stop-color="#050816"/>
+      <stop offset="0.46" stop-color="#071B3A"/>
+      <stop offset="1" stop-color="#160A3A"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="120" y1="80" x2="1350" y2="570">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.48" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <filter id="softGlow"><feGaussianBlur stdDeviation="28"/></filter>
+    <filter id="cardShadow"><feDropShadow dx="0" dy="22" stdDeviation="22" flood-color="#000000" flood-opacity="0.35"/></filter>
+  </defs>
+
+  <rect width="1500" height="650" rx="42" fill="url(#bg)"/>
+  <circle cx="1260" cy="130" r="270" fill="#2563EB" opacity="0.18" filter="url(#softGlow)"/>
+  <circle cx="220" cy="560" r="320" fill="#A855F7" opacity="0.14" filter="url(#softGlow)"/>
+  <path d="M0 552C232 478 355 590 560 520C772 448 825 308 1048 356C1246 398 1302 512 1500 455V650H0V552Z" fill="url(#brand)" opacity="0.12"/>
+
+  <rect x="82" y="70" width="820" height="72" rx="36" fill="#0B1225" stroke="#1E3A8A"/>
+  <text x="122" y="115" font-size="27" font-weight="800" fill="#67E8F9" font-family="Inter, Segoe UI, Arial">Senior Android &amp; iOS Developer · Mobile Product Engineer</text>
+
+  <text x="82" y="236" font-size="72" font-weight="950" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial">Muhammad Ahsan Shaaf</text>
+  <text x="86" y="296" font-size="32" font-weight="650" fill="#BBD7FF" font-family="Inter, Segoe UI, Arial">I build complete mobile products — not just app screens.</text>
+
+  <text x="90" y="374" font-size="29" font-weight="650" fill="#EAF2FF" font-family="Inter, Segoe UI, Arial">Android · iOS · AI Apps · Firebase · AdMob · IAP · Subscriptions</text>
+<text x="90" y="418" font-size="29" font-weight="650" fill="#EAF2FF" font-family="Inter, Segoe UI, Arial">App Store Connect · Google Play Console · Product Launch</text>
+
+  <rect x="88" y="490" width="255" height="62" rx="20" fill="url(#brand)" filter="url(#cardShadow)"/>
+  <text x="122" y="530" font-size="23" font-weight="900" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial">Idea → Store Launch</text>
+
+  <rect x="370" y="490" width="300" height="62" rx="20" fill="#0B1225" stroke="#38BDF8"/>
+  <text x="406" y="530" font-size="23" font-weight="900" fill="#DFFBFF" font-family="Inter, Segoe UI, Arial">10M+ App Experience</text>
+
+  <rect x="700" y="490" width="205" height="62" rx="20" fill="#0B1225" stroke="#A78BFA"/>
+  <text x="742" y="530" font-size="23" font-weight="900" fill="#F3E8FF" font-family="Inter, Segoe UI, Arial">AI Era Ready</text>
+
+  <g filter="url(#cardShadow)">
+    <rect x="1030" y="105" width="330" height="440" rx="48" fill="#0B1225" stroke="url(#brand)" stroke-width="3"/>
+    <rect x="1062" y="150" width="266" height="340" rx="38" fill="#101B35" stroke="#273B67"/>
+    <rect x="1092" y="188" width="205" height="44" rx="14" fill="#172B52"/>
+    <rect x="1092" y="258" width="160" height="18" rx="9" fill="#22D3EE" opacity=".78"/>
+    <rect x="1092" y="294" width="205" height="18" rx="9" fill="#7C3AED" opacity=".65"/>
+    <rect x="1092" y="350" width="92" height="92" rx="24" fill="#0EA5E9" opacity=".25" stroke="#38BDF8"/>
+    <rect x="1206" y="350" width="92" height="92" rx="24" fill="#8B5CF6" opacity=".25" stroke="#A78BFA"/>
+    <text x="1120" y="409" font-size="35" font-weight="900" fill="#EAF2FF" font-family="Inter, Segoe UI, Arial">AI</text>
+    <text x="1228" y="409" font-size="31" font-weight="900" fill="#EAF2FF" font-family="Inter, Segoe UI, Arial">iOS</text>
+  </g>
+</svg>
