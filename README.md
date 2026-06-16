@@ -307,21 +307,6 @@ flowchart LR
 </tr>
 </table>
 
----
-
-## Recommended Public Repositories
-
-| Repository Idea | What It Proves |
-|---|---|
-| **Jetpack Compose MVI Starter** | Android clean architecture and production-style state management |
-| **SwiftUI MVI Starter** | iOS architecture, SwiftUI structure, and scalable app flow |
-| **Firebase Auth + Firestore Demo** | Backend integration and user data flow |
-| **AI Chat Mobile Demo** | AI API integration and prompt-based mobile workflows |
-| **AdMob + IAP Monetization Demo** | Ads, billing, paywall, and monetization setup |
-| **SwiftUI Paywall Template** | StoreKit subscriptions and premium app flow |
-| **Mobile Design System Components** | Reusable UI components for Android/iOS apps |
-
----
 
 <div align="center">
 
