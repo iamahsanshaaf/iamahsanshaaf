@@ -2,24 +2,35 @@
 
 # 👋 Muhammad Ahsan Shaaf
 
-### Senior Android & iOS Developer • Mobile App Architect • Founder @ Intuitex AI Solutions
+### Senior Android & iOS Developer • Mobile App Architect • App Store & Play Store Manager
 
-**I build production-ready Android & iOS apps for startups, founders, businesses, and product teams.**  
-**Kotlin • Jetpack Compose • Swift • SwiftUI • Firebase • AI Apps • AdMob • IAP • Store Launch**
+**I build, launch, monetize, and manage production-ready mobile apps for startups, founders, businesses, and app publishers.**
 
-<p align="center">
-  <a href="mailto:ahsanshaaf@gmail.com"><img src="https://img.shields.io/badge/Email-ahsanshaaf%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/iamahsanshaaf/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/iamAhsanShaaf"><img src="https://img.shields.io/badge/X-@iamAhsanShaaf-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://github.com/iamahsanshaaf"><img src="https://img.shields.io/badge/GitHub-iamahsanshaaf-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<br/>
+
+<p>
+  <a href="mailto:ahsanshaaf@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ahsanshaaf%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/iamahsanshaaf/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahsan%20Shaaf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/iamAhsanShaaf">
+    <img src="https://img.shields.io/badge/X-%40iamAhsanShaaf-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://github.com/iamahsanshaaf">
+    <img src="https://img.shields.io/badge/GitHub-iamahsanshaaf-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-Kotlin%20%7C%20Compose-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-Swift%20%7C%20SwiftUI-0A84FF?style=flat-square&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-OpenAI%20%7C%20Gemini-7C3AED?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-Analytics%20%7C%20Crashlytics-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Monetization-AdMob%20%7C%20IAP%20%7C%20Subscriptions-00C7B7?style=flat-square&logo=googleadmob&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/AdMob-EA4335?style=flat-square&logo=googleadmob&logoColor=white" />
+  <img src="https://img.shields.io/badge/StoreKit-000000?style=flat-square&logo=apple&logoColor=white" />
 </p>
 
 </div>
@@ -28,72 +39,82 @@
 
 ## 🚀 About Me
 
-I am a **Senior Android & iOS Developer** focused on building real-world mobile products with clean architecture, polished UI, monetization, analytics, and store-ready quality.
+I am a **Senior Android & iOS Developer** and founder of **Intuitex AI Solutions**, focused on building complete mobile products from idea to launch.
 
-I have developed and contributed to mobile apps reaching **10M+ installs on Google Play**, including large-scale utility, AI keyboard, translator, scanner, productivity, and monetized apps. Across company, client, and portfolio work, my mobile development experience is connected with apps used by **millions of users globally**.
+I work across the full app lifecycle:
 
-> I do not just build screens. I build mobile products ready for real users, real growth, and real business outcomes.
+- Product planning and feature structure
+- Native Android development
+- Native iOS development
+- UI modernization and design system implementation
+- Firebase, APIs, AI integrations, ads, subscriptions, and analytics
+- Google Play Console and App Store Connect deployment
+- Store listing preparation, monetization setup, release management, and post-launch improvements
 
----
+I have developed and contributed to apps reaching **10M+ installs on Google Play**, including large-scale translator, AI keyboard, AI utility, photo enhancer, homework solver, AR drawing, VPN, productivity, scanner, and mobile utility apps.
 
-## 🧭 Quick Navigation
-
-| Section | What You’ll Find |
-|---|---|
-| [Impact](#-experience--impact) | Scale, production, monetization, and store launch experience |
-| [Services](#-services-i-offer) | Android, iOS, AI apps, monetization, redesign, store launch |
-| [iOS Portfolios](#-ios-app-portfolios-managed) | App Store developer accounts and app categories I manage/work across |
-| [High-Scale Android](#-high-scale-android-experience) | Translator, AI keyboard, utility and monetized Android work |
-| [Tech Stack](#-tech-stack) | Kotlin, Compose, Swift, SwiftUI, Firebase, AI, AdMob, StoreKit |
-| [Architecture](#-architecture--engineering-style) | Android and iOS project structure examples |
-| [Contact](#-contact) | Email, LinkedIn, GitHub, X |
+> **My focus:** Build mobile apps that are clean, scalable, monetized, store-ready, and prepared for real users.
 
 ---
 
-## 📊 Experience & Impact
+## 💼 What I Can Manage End-to-End
 
 <table>
 <tr>
 <td width="50%">
 
-### 📱 Mobile Scale
-- Developed/contributed to apps reaching **10M+ installs**
-- Worked on Android apps used by millions globally
-- Managed/worked across multiple iOS app portfolios
-- Built apps for utilities, AI, maps, scanners, productivity, and lifestyle categories
+### 📱 Mobile App Development
+
+- Android apps with Kotlin and Jetpack Compose
+- iOS apps with Swift and SwiftUI
+- Clean Architecture, MVVM, MVI
+- Scalable feature modules
+- Modern UI components
+- API and Firebase integration
+- Local database and offline workflows
 
 </td>
 <td width="50%">
 
-### 💰 Product & Monetization
-- AdMob native, interstitial, app open, rewarded ads
-- StoreKit subscriptions and in-app purchases
-- Paywalls and premium flows
-- Firebase Remote Config-based monetization control
-- Analytics and crash tracking setup
+### 🚀 Store Launch & App Management
+
+- Google Play Console setup
+- App Store Connect setup
+- App metadata and compliance support
+- Internal testing and release tracks
+- Production release preparation
+- Version updates and rollout management
+- Privacy, permissions, and policy alignment
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### 🧠 Engineering Quality
-- Clean Architecture
-- MVVM / MVI
-- Modular code structure
-- Reusable UI components
-- State management
-- Store-compliant UX
+### 💰 Monetization
+
+- AdMob app open ads
+- Native ads
+- Interstitial ads
+- Rewarded ads
+- Remote Config ad control
+- StoreKit in-app purchases
+- Auto-renewable subscriptions
+- Paywall implementation
 
 </td>
 <td width="50%">
 
-### 🚀 Launch Readiness
-- App Store Connect setup
-- Google Play Console release support
-- App metadata and ASO-ready positioning
-- Privacy/compliance preparation
-- Production testing and release polish
+### 🤖 AI & Firebase Apps
+
+- OpenAI / Gemini API integration
+- AI writer, AI chat, AI dictionary tools
+- AI keyboard and assistant workflows
+- Firebase Auth, Firestore, Crashlytics
+- Analytics event tracking
+- FCM notifications
+- Remote Config experiments
 
 </td>
 </tr>
@@ -101,171 +122,151 @@ I have developed and contributed to mobile apps reaching **10M+ installs on Goog
 
 ---
 
-## 💼 Services I Offer
+## 🧠 Core Tech Stack
 
-| Service | What I Deliver |
-|---|---|
-| **Android App Development** | Kotlin, Jetpack Compose, Firebase, APIs, Room, Hilt, AdMob, Play Store launch |
-| **iOS App Development** | Swift, SwiftUI, SwiftData/CoreData, StoreKit, Firebase, App Store deployment |
-| **AI Mobile Apps** | OpenAI/Gemini integrations, AI writing, AI chat, AI assistants, OCR, smart tools |
-| **Monetization Setup** | AdMob, IAP, subscriptions, paywalls, Remote Config, analytics events |
-| **App Redesign** | Modern UI, better UX, clean architecture, performance cleanup, store-ready polish |
-| **Store Launch Support** | App Store / Play Store preparation, metadata direction, screenshots direction, release setup |
+### Android
 
----
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Room-34A853?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hilt-0F9D58?style=for-the-badge&logo=android&logoColor=white" />
+</p>
 
-## 🍎 iOS App Portfolios Managed
-
-I manage and work across multiple iOS app portfolios, including utility, scanner, maps, AI, lifestyle, GPS, and productivity apps.
-
-### 1. Ikhlaq Ahmed — App Store Portfolio
-
-<a href="https://apps.apple.com/id/developer/ikhlaq-ahmed/id1777750146"><img src="https://img.shields.io/badge/App%20Store-Ikhlaq%20Ahmed-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" /></a>
-
-| App Category | Example Apps / Focus Areas |
-|---|---|
-| Gold & Metal Utility | Gold Scanner & Age Estimator, Metal Detector & Gold Scanner, Gold Detector & Gold Scanner |
-| Maps & GPS | Live Earth Map & Satellite, Satellite Finder & Street View, GPS Camera Map & Geotag |
-| Document / Tools | Signature Maker, Stamp Maker, Image Search, Photo Recovery, Face Warp |
-
-**Work Focus:** SwiftUI screens, utility app workflows, sensor-based features, map/GPS flows, monetization structure, App Store launch support.
-
----
-
-### 2. Shahida Parveen — App Store Portfolio
-
-<a href="https://apps.apple.com/id/developer/shahida-parveen/id1851386391"><img src="https://img.shields.io/badge/App%20Store-Shahida%20Parveen-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" /></a>
-
-| App Category | Example Apps / Focus Areas |
-|---|---|
-| Lifestyle | Pregnancy Tracker Journal |
-| Maps / GPS / Navigation | Live Earth Map & Navigation, Satellite Finder - GPS Tracker |
-| Utility / Scanner | Object Detector & DocScan, Draw Floor Plans, Stamp Maker, Gold Detector, Metal Detector |
-
-**Work Focus:** SwiftUI app development, GPS/location experiences, OCR/object detection style flows, local content apps, utility UX, StoreKit and deployment support.
-
----
-
-### 3. Muhammad Ahsan Shaaf — App Store Portfolio
-
-<a href="https://apps.apple.com/id/developer/muhammad-ahsan-shaaf/id1844917800"><img src="https://img.shields.io/badge/App%20Store-Muhammad%20Ahsan%20Shaaf-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" /></a>
-
-| App | Focus Areas |
-|---|---|
-| **Gramlyse: AI Writer & Essay** | AI writing tools, grammar workflows, essay support, SwiftUI interface, StoreKit subscriptions, productivity UX |
-
----
-
-## 🤖 High-Scale Android Experience
-
-I have worked on and contributed to large-scale Android apps, including apps that reached **10M+ installs on Google Play**.
-
-> Some high-scale Android apps were developed for companies and clients. Detailed proof, Play Console screenshots, app links, and role details can be shared privately when required.
-
-### Selected Areas
-
-| Area | Work Focus |
-|---|---|
-| **Speak & Translate / Voice Translator Apps** | Real-time translation flows, language UX, voice input/output, offline-friendly structure, analytics, crash tracking, ads monetization |
-| **AI Keyboard / AI Assistant Apps** | AI chat, prompt workflows, writing tools, keyboard UX, API integration, monetization, Remote Config |
-| **Utility & Productivity Apps** | Scanner tools, document utilities, camera tools, maps, compass, navigation, monetized app experiences |
-| **Monetized Android Products** | AdMob native ads, interstitials, app open ads, rewarded ads, Firebase analytics, release optimization |
-
----
-
-## 🧠 Core Expertise
-
-<details open>
-<summary><b>📱 Android Development</b></summary>
-
-- Kotlin, Java
-- Jetpack Compose, XML, ViewBinding
+- Kotlin, Java, Jetpack Compose, XML
 - MVVM, MVI, Clean Architecture
 - Room, SQLite, DataStore
-- Retrofit, Ktor, OkHttp
+- Retrofit, OkHttp, Ktor
 - Coroutines, Flow, StateFlow
 - Hilt, Dagger
 - WorkManager
-- Firebase, AdMob, Remote Config
+- Firebase, AdMob, Billing
 - Google Play Console deployment
 
-</details>
+### iOS
 
-<details open>
-<summary><b>🍎 iOS Development</b></summary>
+<p>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/StoreKit-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/App%20Store%20Connect-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" />
+</p>
 
 - Swift, SwiftUI, UIKit when required
-- MVVM, MVI, modular architecture
+- MVVM, MVI, Clean Architecture
 - SwiftData, CoreData
-- StoreKit, subscriptions, in-app purchases
-- Apple Vision / OCR
-- Combine, Async/Await
+- StoreKit, subscriptions, IAP
+- Async/Await, Combine
 - URLSession
+- Apple Vision / OCR
 - App Store Connect deployment
 
-</details>
+### Backend, Analytics & Monetization
 
-<details open>
-<summary><b>🤖 AI App Development</b></summary>
-
-- OpenAI API integration
-- Gemini API integration
-- AI writing tools
-- AI chat apps
-- AI dictionary tools
-- Prompt-based mobile workflows
-- AI-powered productivity tools
-- OCR and scanner-style AI features
-- API cost-conscious mobile architecture
-
-</details>
-
-<details open>
-<summary><b>🔥 Firebase & Monetization</b></summary>
-
-- Firebase Auth, Firestore, Realtime Database, Storage
-- Firebase Analytics, Crashlytics, Remote Config, FCM
-- AdMob native, interstitial, app open, rewarded ads
-- StoreKit subscriptions and IAP
-- Paywalls and premium flows
-- Remote Config-based ad and paywall control
-
-</details>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-| Mobile | Backend / Cloud | AI | Monetization | Architecture |
-|---|---|---|---|---|
-| Kotlin | Firebase | OpenAI | AdMob | Clean Architecture |
-| Jetpack Compose | Firestore | Gemini | StoreKit | MVVM |
-| Swift | REST APIs | OCR | IAP | MVI |
-| SwiftUI | Remote Config | AI Chat | Subscriptions | Modular UI |
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=apple&logoColor=white" />
+<p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/AdMob-EA4335?style=for-the-badge&logo=googleadmob&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
+- Firebase Auth, Firestore, Realtime Database, Storage
+- Firebase Crashlytics, Analytics, Remote Config, FCM
+- AdMob native, interstitial, rewarded, app open ads
+- StoreKit, IAP, subscriptions, paywalls
+- OpenAI and Gemini integrations
+- REST APIs and JSON-driven content systems
+
 ---
 
-## 🏗️ Architecture & Engineering Style
+## 📊 Experience Highlights
 
-### Android Structure
+| Area | Experience |
+|---|---|
+| High-scale Android apps | Developed and contributed to apps reaching **10M+ installs** |
+| iOS app portfolios | Managed multiple App Store developer portfolios |
+| App monetization | AdMob, IAP, subscriptions, paywalls, remote config |
+| Store deployment | App Store Connect and Google Play Console |
+| AI apps | AI writer, AI keyboard, AI dictionary, AI assistant, AI utilities |
+| Architecture | Clean Architecture, MVVM, MVI, modular project structure |
+| Product categories | AI, productivity, scanner, maps, GPS, VPN, utilities, lifestyle |
+
+---
+
+## 🤖 Android App Portfolio & Google Play Experience
+
+I have worked on and contributed to multiple Android apps across AI, translation, productivity, camera, utility, VPN, and creative categories.
+
+| App / Category | Google Play Link | Work Focus |
+|---|---|---|
+| Speak & Translate / Voice Translator | [View on Google Play](https://play.google.com/store/apps/details?id=com.speaktranslate.englishalllanguaguestranslator.ivoicetranslation) | Voice translation, language UX, performance, monetization, release support |
+| AI Keyboard / AI Assistant / Art Generator | [View on Google Play](https://play.google.com/store/apps/details?id=aichatbot.keyboard.translate.aiask.artgenerator) | AI flows, keyboard UX, API integration, ads, Firebase |
+| AI Photo Enhancer / Unblur Editor | [View on Google Play](https://play.google.com/store/apps/details?id=com.dw.aiphotoenhancer.unblur.editor) | Photo utility UX, AI-style editing flows, monetization |
+| AI Homework Solver | [View on Google Play](https://play.google.com/store/apps/details?id=com.aiassistant.homeworksolver) | AI assistant flows, study tools, API-based experiences |
+| AR Drawing / AR Sketch / Trace Anime | [View on Google Play](https://play.google.com/store/apps/details?id=com.ardrawing.arsketch.paint.traceanime) | Camera utility, drawing workflows, creative app UX |
+| VPN App | [View on Google Play](https://play.google.com/store/apps/details?id=com.joltapps.vpn) | Utility app UX, subscription/monetization, release support |
+
+> Some high-scale Android apps were built for companies and clients. Detailed proof, Play Console screenshots, and role details can be shared privately when required.
+
+---
+
+## 🍎 iOS App Store Portfolios Managed
+
+I manage and work across multiple iOS App Store developer accounts and app portfolios.
+
+### Ikhlaq Ahmed — iOS Portfolio
+
+**Developer Account:**  
+https://apps.apple.com/id/developer/ikhlaq-ahmed/id1777750146
+
+| App Category | Example Apps |
+|---|---|
+| Gold / Metal Utilities | Gold Scanner & Age Estimator, Metal Detector & Gold Scanner, Gold Detector & Gold Scanner |
+| Navigation / Maps | Live Earth Map & Satellite, Satellite Finder & Street View, GPS Camera Map & Geotag |
+| Scanner / Image Tools | Signature Maker, Image Search, Photo Recovery, Stamp Maker |
+| Fun / Creative | Face Warp Photo & Video Fun |
+
+### Shahida Parveen — iOS Portfolio
+
+**Developer Account:**  
+https://apps.apple.com/id/developer/shahida-parveen/id1851386391
+
+| App Category | Example Apps |
+|---|---|
+| Lifestyle | Pregnancy Tracker Journal |
+| Gold / Metal Utilities | Metal Detector & Rock ID, Gold Detector - Metal Scanner |
+| Navigation / GPS | Satellite Finder - GPS Tracker, Live Earth Map & Navigation |
+| Scanner / Tools | Object Detector & DocScan, Stamp Maker & Signature Maker |
+| Construction Utility | Draw Floor Plans |
+
+### Muhammad Ahsan Shaaf — iOS Portfolio
+
+**Developer Account:**  
+https://apps.apple.com/id/developer/muhammad-ahsan-shaaf/id1844917800
+
+| App | Focus |
+|---|---|
+| Gramlyse: AI Writer & Essay | AI writing, grammar tools, essay workflows, StoreKit subscriptions, App Store launch |
+
+---
+
+## 🏗️ Architecture Style
+
+I build apps with separation of concerns, reusable components, scalable state management, and clean feature boundaries.
+
+### Android Project Structure
 
 ```text
 app/
+ ├── core/
+ │   ├── designsystem/
+ │   ├── navigation/
+ │   ├── analytics/
+ │   ├── ads/
+ │   ├── billing/
+ │   └── utils/
  ├── data/
  │   ├── local/
  │   ├── remote/
@@ -275,21 +276,14 @@ app/
  │   ├── model/
  │   ├── repository/
  │   └── usecase/
- ├── presentation/
- │   ├── screen/
- │   ├── component/
- │   ├── state/
- │   └── viewmodel/
- └── core/
-     ├── designsystem/
-     ├── navigation/
-     ├── analytics/
-     ├── ads/
-     ├── billing/
-     └── utils/
+ └── presentation/
+     ├── screen/
+     ├── component/
+     ├── state/
+     └── viewmodel/
 ```
 
-### iOS Structure
+### iOS Project Structure
 
 ```text
 App/
@@ -317,95 +311,153 @@ App/
 
 ---
 
+## 🔄 My App Delivery Workflow
+
+```mermaid
+flowchart LR
+    A[Idea / Requirements] --> B[Feature Scope]
+    B --> C[UI / UX Structure]
+    C --> D[Architecture Setup]
+    D --> E[Development]
+    E --> F[Firebase / APIs / AI]
+    F --> G[Ads / IAP / Subscriptions]
+    G --> H[Testing]
+    H --> I[Store Listing]
+    I --> J[App Review / Release]
+    J --> K[Analytics / Improvements]
+```
+
+---
+
+## 💼 Services I Offer
+
+<details open>
+<summary><b>📱 Android App Development</b></summary>
+
+- Kotlin and Jetpack Compose apps
+- Clean Architecture, MVVM, MVI
+- Firebase, APIs, Room, Retrofit
+- AdMob ads and Play Billing
+- Google Play Console release support
+- Existing app redesign and bug fixing
+
+</details>
+
+<details open>
+<summary><b>🍎 iOS App Development</b></summary>
+
+- Swift and SwiftUI apps
+- StoreKit IAP and subscriptions
+- SwiftData / CoreData integration
+- Firebase and API integration
+- App Store Connect deployment
+- App redesign and production polish
+
+</details>
+
+<details open>
+<summary><b>🤖 AI Mobile App Development</b></summary>
+
+- AI writer apps
+- AI chat apps
+- AI keyboard apps
+- AI dictionary and productivity tools
+- OpenAI / Gemini integration
+- Prompt-based mobile workflows
+
+</details>
+
+<details open>
+<summary><b>💰 App Monetization & Store Management</b></summary>
+
+- AdMob setup and ad placement strategy
+- Remote Config monetization control
+- In-app purchases
+- Auto-renewable subscriptions
+- Paywalls
+- App Store and Play Store launch support
+- Store metadata and compliance preparation
+
+</details>
+
+---
+
 ## 📌 App Categories I Have Worked On
 
 <table>
 <tr>
-<td>AI writing apps</td>
-<td>AI keyboard apps</td>
-<td>Translator apps</td>
+<td>AI Writing Apps</td>
+<td>AI Keyboard Apps</td>
+<td>Voice Translator Apps</td>
 </tr>
 <tr>
-<td>Scanner / OCR apps</td>
-<td>Gold / metal detector apps</td>
-<td>GPS / map apps</td>
+<td>AI Homework Solver Apps</td>
+<td>AI Photo Enhancer Apps</td>
+<td>VPN Utility Apps</td>
 </tr>
 <tr>
-<td>Pregnancy / lifestyle apps</td>
-<td>Signature / stamp apps</td>
-<td>Photo recovery apps</td>
+<td>Gold Scanner Apps</td>
+<td>Metal Detector Apps</td>
+<td>Live Earth Map Apps</td>
 </tr>
 <tr>
-<td>Object detection apps</td>
-<td>Floor plan tools</td>
-<td>AdMob / IAP apps</td>
+<td>GPS Navigation Apps</td>
+<td>Satellite Finder Apps</td>
+<td>Scanner / OCR Apps</td>
+</tr>
+<tr>
+<td>Pregnancy Tracker Apps</td>
+<td>Signature Maker Apps</td>
+<td>Floor Plan Apps</td>
 </tr>
 </table>
 
 ---
 
-## 🧭 My Development Workflow
+## 🧪 Production Quality Checklist
 
-```mermaid
-graph LR
-A[Idea] --> B[Feature Scope]
-B --> C[UI/UX Structure]
-C --> D[Architecture]
-D --> E[Development]
-E --> F[Firebase / APIs / AI]
-F --> G[Ads / IAP]
-G --> H[Testing]
-H --> I[Store Launch]
-I --> J[Analytics & Improvements]
-```
+When I build or manage an app, I focus on:
 
----
-
-## 🔥 Featured Mobile Work
-
-### Gramlyse: AI Writer & Essay
-
-<a href="https://apps.apple.com/id/developer/muhammad-ahsan-shaaf/id1844917800"><img src="https://img.shields.io/badge/View%20on-App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" /></a>
-
-AI writing and grammar-focused productivity app built around writing improvement, essay support, grammar checking, and AI-powered text workflows.
-
-**Focus areas:** SwiftUI, AI writing flows, grammar workflows, StoreKit subscriptions, App Store-ready UX.
-
----
-
-### Gold Scanner & Detector Utility Apps
-
-<a href="https://apps.apple.com/id/developer/ikhlaq-ahmed/id1777750146"><img src="https://img.shields.io/badge/View%20Portfolio-App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" /></a>
-
-Utility-focused iOS apps around scanner flows, metal detector tools, gold scanner concepts, compass/level features, and utility app experiences.
-
-**Focus areas:** SwiftUI screens, sensor-based UI, utility workflows, monetization-ready structure, App Store deployment support.
-
----
-
-### Live Earth Map, GPS & Satellite Apps
-
-<a href="https://apps.apple.com/id/developer/ikhlaq-ahmed/id1777750146"><img src="https://img.shields.io/badge/Portfolio%201-App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" /></a>
-<a href="https://apps.apple.com/id/developer/shahida-parveen/id1851386391"><img src="https://img.shields.io/badge/Portfolio%202-App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" /></a>
-
-Navigation and map-focused utility apps involving GPS, satellite finder, live earth map, street view, weather, route planning, and compass flows.
-
-**Focus areas:** Map-based UI, location workflows, GPS features, utility navigation, monetization and store packaging.
+- Clean and maintainable code
+- Reusable UI components
+- Scalable architecture
+- Proper state management
+- Loading, empty, and error states
+- Firebase Analytics and Crashlytics
+- AdMob and IAP safety
+- Store-compliant permission usage
+- Smooth onboarding and paywall flows
+- App Store and Play Store release readiness
+- Post-launch monitoring and improvement
 
 ---
 
 ## 📂 Recommended Public Repositories
 
-I am organizing my GitHub around clean, reusable, portfolio-ready repositories.
+I am organizing my GitHub around portfolio-ready repositories that show real production skills.
 
 | Repository Idea | Purpose |
 |---|---|
-| `jetpack-compose-mvi-starter` | Modern Android starter with MVI, Compose, Hilt, Navigation |
-| `swiftui-mvi-starter` | SwiftUI architecture starter with clean state handling |
-| `firebase-mobile-template` | Firebase Auth, Firestore, Analytics, Crashlytics demo |
-| `ai-chat-mobile-demo` | AI chat workflow using OpenAI/Gemini APIs |
-| `admob-iap-template` | Ads + subscriptions/IAP production-style setup |
-| `mobile-design-system` | Reusable SwiftUI/Compose UI components |
+| Jetpack Compose MVI Starter | Android clean architecture sample |
+| SwiftUI MVI Starter | iOS clean architecture sample |
+| Firebase Auth + Firestore Demo | Backend integration proof |
+| AI Chat Mobile Demo | AI API integration proof |
+| AdMob + IAP Monetization Demo | Monetization setup proof |
+| SwiftUI Paywall Template | StoreKit subscription proof |
+| Mobile Design System Components | UI component system proof |
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamahsanshaaf&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=iamahsanshaaf&theme=tokyonight&hide_border=true" />
+
+</div>
+
+> If any GitHub stats image fails to load, the profile content still remains fully readable because the README does not depend on external hero images.
 
 ---
 
@@ -418,6 +470,7 @@ I am open to:
 - iOS app development
 - AI mobile app development
 - Startup MVPs
+- Full app development from scratch
 - App redesign projects
 - App monetization setup
 - Firebase and API integration
@@ -428,23 +481,30 @@ I am open to:
 
 ## 📫 Contact
 
-<p align="left">
-<a href="mailto:ahsanshaaf@gmail.com"><img src="https://img.shields.io/badge/Email-ahsanshaaf%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/iamahsanshaaf/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/iamAhsanShaaf"><img src="https://img.shields.io/badge/X-@iamAhsanShaaf-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<p>
+  <a href="mailto:ahsanshaaf@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ahsanshaaf%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/iamahsanshaaf/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/iamAhsanShaaf">
+    <img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 </p>
 
-**Location:** Pakistan 🇵🇰  
-**Availability:** Open to remote freelance, contract, and long-term mobile app projects  
-**Focus:** Android • iOS • AI Apps • Firebase • Monetization • Store Launch
+**Email:** ahsanshaaf@gmail.com  
+**Location:** Pakistan  
+**Availability:** Remote freelance, contract, and long-term mobile app projects  
 
 ---
 
 <div align="center">
 
-### ⭐ From idea to UI, development, monetization, and store launch.
+## ⭐ Let’s Build Your Next Mobile App
 
-**I build mobile apps ready for real users.**
+**From idea → UI → development → monetization → App Store / Play Store launch**
+
+If you are a founder, startup, business owner, or app publisher looking to build or improve a mobile app, I can help you turn your idea into a real product.
 
 </div>
-
