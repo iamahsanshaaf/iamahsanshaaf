@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Muhammad Ahsan Shaaf - Senior Android and iOS Developer" width="100%" />
+<img src="./assets/hero-banner.png" alt="Muhammad Ahsan Shaaf - Senior Android and iOS App Developer" width="100%" />
 
 <br/>
 
@@ -17,6 +17,19 @@
   <img src="https://img.shields.io/badge/GitHub-iamahsanshaaf-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/AdMob-EA4335?style=flat-square&logo=googleadmob&logoColor=white" />
+<img src="https://img.shields.io/badge/StoreKit-000000?style=flat-square&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Play%20Console-34A853?style=flat-square&logo=googleplay&logoColor=white" />
+<img src="https://img.shields.io/badge/App%20Store%20Connect-0D96F6?style=flat-square&logo=appstore&logoColor=white" />
+
 </div>
 
 ---
@@ -27,24 +40,26 @@
 
 ## 🚀 About Me
 
-I am a **Senior Android & iOS Developer** and founder of **Intuitex AI Solutions**, focused on building complete mobile products for startups, founders, businesses, product teams, and app publishers.
+I am **Muhammad Ahsan Shaaf**, a **Senior Android & iOS Developer** and founder of **Intuitex AI Solutions**.
 
-I work across the complete app lifecycle:
+I build complete mobile products for **startups, founders, businesses, product teams, and app publishers** — from idea and UI collaboration to development, APIs, monetization, deployment, and post-launch improvements.
+
+My work covers:
 
 - Product planning and feature breakdown
 - Figma/UI collaboration with designers
 - Native Android development
 - Native iOS development
 - API integration and backend collaboration
-- Firebase, analytics, crash tracking, notifications
-- AdMob, in-app purchases, subscriptions, and paywalls
+- Firebase, analytics, crash tracking, and notifications
+- AdMob, IAP, subscriptions, and paywalls
 - App Store Connect and Google Play Console release management
-- Post-launch improvements, debugging, and optimization
+- Store-ready polishing, testing, updates, and optimization
 
 </td>
 <td width="45%" valign="top">
 
-## 🎯 What Makes Me Different
+## 🎯 My Positioning
 
 I do not only build screens.
 
@@ -58,7 +73,7 @@ I build complete apps with:
 - Real release management
 - Long-term maintainability
 
-> My goal is to build mobile products ready for real users and real business outcomes.
+> My goal is to build mobile products ready for real users, real growth, and real business outcomes.
 
 </td>
 </tr>
@@ -66,13 +81,13 @@ I build complete apps with:
 
 ---
 
-<img src="./assets/cleandense.svg" alt="Cleandense - Complete Laundry Management Software" width="100%" />
+<img src="./assets/cleandense-showcase.png" alt="Cleandense Complete Laundry Management Software" width="100%" />
 
-## 🧼 Cleandense — Main Product Case Study
+## 🧼 Cleandense — Main Featured Product
 
 **Cleandense** is a complete laundry management software ecosystem designed to manage the full laundry business workflow from customer order placement to pickup, washing, delivery, driver operations, and admin control.
 
-It includes:
+It is not just an app. It is a complete product ecosystem:
 
 <table>
 <tr>
@@ -108,9 +123,9 @@ flowchart LR
 
 ---
 
-<img src="./assets/services.svg" alt="Mobile App Development Services" width="100%" />
+<img src="./assets/services-showcase.png" alt="Mobile App Development Services" width="100%" />
 
-## 🛠️ Services I Offer
+## 🛠️ What I Can Build & Manage
 
 <details open>
 <summary><b>📱 Android App Development</b></summary>
@@ -259,7 +274,7 @@ A curated selection of strong iOS apps across AI, utility, maps, scanner/OCR, li
 
 ---
 
-<img src="./assets/portfolio-categories.svg" alt="Portfolio Categories" width="100%" />
+<img src="./assets/portfolio-categories.png" alt="Portfolio Categories" width="100%" />
 
 ---
 
@@ -333,13 +348,13 @@ flowchart LR
 
 </div>
 
-> If stats images ever fail to load, the portfolio still remains readable because the main design uses local SVG assets inside the repository.
+> If stats images ever fail to load, the portfolio still remains readable because the main design uses local image assets inside the repository.
 
 ---
 
 <div align="center">
 
-<img src="./assets/cta.svg" alt="Let's Build Your Next Mobile Product" width="100%" />
+<img src="./assets/cta-banner.png" alt="Let's Build Your Next Mobile Product" width="100%" />
 
 <br/>
 
