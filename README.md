@@ -209,7 +209,7 @@ Selected Android work and contribution experience across AI, translation, produc
 
 ---
 
-## Selected iOS Portfolio
+##  iOS Portfolio
 
 Curated iOS portfolio highlights across AI, utilities, maps, scanner/OCR, lifestyle, construction, and productivity categories.
 
